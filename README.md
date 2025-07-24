@@ -1,4 +1,4 @@
-Site para divulgação de animes/mangas
+# Site para divulgação de animes/mangas
 
 # Objetivo do site
 
