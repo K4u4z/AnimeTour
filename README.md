@@ -1,14 +1,14 @@
 Site para divulgação de animes/mangas
 
-Objetivo do site
+# Objetivo do site
 
 Fazer a divulgação de animes/mangas descrevendo todas as suas informações e apresentando com uma interface chamativa 
 
-Regras
+# Regras
 Possuir uma área de usuário e administrativa
 
 
-Funcionalidades
+# Funcionalidades
 Realizar um CRUD dos mangas e animes por meio da área administrativa;
 
 Possuir botão de salvar em uma lista; 
